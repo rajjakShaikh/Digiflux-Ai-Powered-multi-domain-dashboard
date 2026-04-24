@@ -37,6 +37,8 @@ Paste it into VITE_OPENAI_API_KEY
 
 4. Build for production
    `npm run build`
+   -- after build --
+   npm run preview
 
 ---
 
