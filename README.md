@@ -23,7 +23,7 @@ The goal was not just to implement features, but to structure the application in
 Create a .env file in the root directory (my-app) and add the following:
 
 VITE_OPENAI_API_KEY=your_api_key_here
-VITE_OPENAI_API_URL=https://openrouter.ai/api/v1/chat/completions
+VITE_OPENAI_API_URL=https://openrouter.ai/workspaces/default/keys
 VITE_OPENAI_MODEL=openai/gpt-4o-mini
 
 To get your API key:
